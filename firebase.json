@@ -1,0 +1,19 @@
+{
+  "hosting": [
+    {
+      "target": "angular-fire-lag-reproduction",
+      "public": "dist/angular-fire-lag-reproduction",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ]
+    }
+  ]
+}

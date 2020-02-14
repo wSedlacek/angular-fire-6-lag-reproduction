@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "laggy-9f215": {
+      "hosting": {
+        "angular-fire-lag-reproduction": [
+          "laggy-9f215"
+        ]
+      }
+    }
+  }
+}

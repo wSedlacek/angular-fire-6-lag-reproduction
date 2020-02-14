@@ -5,6 +5,7 @@
 - ng new [project]
 - cd [project]
 - ng add @angular/material
-- ng add @angular/fire
-- y add @angular/fire@next
+- ng add @angular/fire@next
+- Format files with prettier
+- Modify [Routing Module](src/app/app-routing.module.ts)
 - Modify
